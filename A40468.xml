@@ -1,0 +1,1106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French way of exercizing the infantry as it is now practis'd in the armies of his most Christian Majesty. Translated from the French, October the 31. 1672.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40468</idno>
+            <idno type="STC">Wing F2196D</idno>
+            <idno type="STC">ESTC R215127</idno>
+            <idno type="EEBO-CITATION">99827098</idno>
+            <idno type="PROQUEST">99827098</idno>
+            <idno type="VID">31511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1886:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French way of exercizing the infantry as it is now practis'd in the armies of his most Christian Majesty. Translated from the French, October the 31. 1672.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Dorman Newman at the Kings Arms in the Poultry, and Jonathan Edwin at the Three Roses in Ludgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Armed forces --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31511:1" rendition="simple:additions"/>
+            <p>THE FRENCH Way of Exercizing THE INFANTRY: As it is now practis'd in the ARMIES OF HIS MOST Chriſtian Majeſty.</p>
+            <p>
+               <hi>Tranſlated from the French,</hi> October <hi>the</hi> 31, 1672.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dorman Newman</hi> at the Kings Arms in the <hi>Poultry,</hi> and <hi>Jonathan Edwin</hi> at the Three Roſes in <hi>Ludgate</hi>-ſtreet, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31511:2"/>
+            <pb n="1" facs="tcp:31511:2"/>
+            <head>THE GENERAL Way of Exercize FOR THE INFANTRY.</head>
+            <div type="part">
+               <head>The manner of poſſeſſing the Ground, and forming a Battalion.</head>
+               <p>THe Major takes the Colonel and his Adjutant, or whoever acts in that charge, and at<g ref="char:EOLhyphen"/>tends them in the Field which he has pitch'd upon.</p>
+               <p>The Major takes the Muskets, and forms the front of a Battalion.</p>
+               <p>The Adjatant ought to be at the head of the Pikes, which he draws up in the ſame manner in the rere of the Maskets, at twenty ſpaces diſtance, if he have ground ſufficient.</p>
+               <p>The Major or Adjatant muſt obſerve that the due diſtance of Files (when they are not Exercizing) is onely half a ſpace diſtance: but when they come to hand<g ref="char:EOLhyphen"/>ling their arms or doublings, they muſt open to a whole pace.</p>
+               <p>No Company muſt enter into the field but in its order, and ſix deep in file.</p>
+               <p>The Captains or Officers muſt lead their Companies with a Pike in their hand, the Lieutenants muſt be at the rere of the Pikes, when there are Enſigns; and when there is none, they are to place themſelves at the head of the Pikes when they are drawn into battalia.</p>
+               <p>The Companies being come to the de<g ref="char:EOLhyphen"/>ſigned ground, ſhall file off one after an<g ref="char:EOLhyphen"/>other, and paſs upon the left wing of the Pikes; and in the firſt place they ſhall leave their pikes in the field of the battle, and the Muskets ſhall purſue their march till they have joyned the front of their Muskets.</p>
+               <p>So ſoon as the laſt Company has joyn<g ref="char:EOLhyphen"/>ed the Battalion, the Adjutant ſhall file off the Pikes by quarter Ranks to go joyn the Battalion; on the ſame front of Mus<g ref="char:EOLhyphen"/>kets on the left wing, and without loſing time, as ſoon as the laſt quarter Rank is arrived, he ſhall face them to the left in demi-rank, to the left the Muskets, and to the right the Pikes; and by a word of Command, <hi>[March,]</hi> the Pikes and the Muskets ſhall poſſeſs the ſame ground: after which he ſhall give command, <hi>[As you were,]</hi> taking care that in theſe mo<g ref="char:EOLhyphen"/>vings, a Sergeant be ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll at the wing of each Diviſion, to prevent their falſify<g ref="char:EOLhyphen"/>ing.</p>
+               <p>No Officer ſhall leave the head of his Company, nor his pike, till the battalion be formed.</p>
+               <p>When a battalion is formed, the firſt Lieutenant ſhall take his ſtand in the rere of the firſt diviſion of Muskets, and the laſt in the rere of the laſt diviſion; an Enſign in the rere of the pikes, with
+<pb n="2" facs="tcp:31511:3"/>one half of the Sergeants to hinder the Souldiers from diſperſing or breaking their ranks.</p>
+               <p>When the Major gives any command, the Officers and Sergeants are to cauſe a profound ſilence to be kept, and none but he is to give any command, unleſs he that commands the Regiment.</p>
+               <p>The Captains and Officers are to be employed in the putting in execution all Commands according as they ſhall be diſ<g ref="char:EOLhyphen"/>poſed by the Major.</p>
+               <p>The Drums ſhall be placed on the right hand and the left.</p>
+            </div>
+            <div type="exercise">
+               <head>The General Exercize for the <hi>INFANTRY.</hi>
+               </head>
+               <p>
+                  <hi>AFter having drawn the Regiment into Battalia, they draw out the Files of Halberteers which are placed on the wings of the Battalion by the following Commands.</hi>
+               </p>
+               <list>
+                  <item>Take care Halberteers to form your Files on the wings of the battalion.</item>
+                  <item>To the right and left by half rank, draw your files on the wings of the bat<g ref="char:EOLhyphen"/>talion.</item>
+                  <item>March.</item>
+               </list>
+               <p>
+                  <hi>Then they open the Files of the Battalion.</hi>
+               </p>
+               <list>
+                  <item>Take heed to your ſelves in opening your files, that the right hand file ſtir not.</item>
+                  <item>To the left open your files to three foot diſtance.</item>
+                  <item>March.</item>
+                  <item>Halt.</item>
+                  <item>To the right.</item>
+               </list>
+               <div n="musket" type="section">
+                  <head>The Exercize of the Musket.</head>
+                  <p>
+                     <hi>Take heed to your ſelves there in the exer<g ref="char:EOLhyphen"/>cizing your Muskets.</hi>
+                  </p>
+                  <list>
+                     <item>Lay your right hand on your musket.</item>
+                     <item>Poyze your musket,</item>
+                     <item>Joyn your left hand to your musket.</item>
+                     <item>Handle your match.</item>
+                     <item>Blow your match.</item>
+                     <item>Cock your match.</item>
+                     <item>Try your match.</item>
+                     <item>Lay your two fingers on the pan.</item>
+                     <item>Blow your match.</item>
+                     <item>Open your pan.</item>
+                     <item>Preſent.</item>
+                  </list>
+                  <p>
+                     <hi>At this command the Pikes charge.</hi>
+                  </p>
+                  <list>
+                     <item>Give fire.</item>
+                     <item>Withdraw your arms.</item>
+                  </list>
+                  <p>
+                     <hi>At this command the Pikes advance.</hi>
+                  </p>
+                  <list>
+                     <item>Take out your match.</item>
+                     <item>Return it to its place.</item>
+                     <item>Blow your pan.</item>
+                     <item>Take your primer.</item>
+                     <item>Prime your pan.</item>
+                     <item>Shut your pan.</item>
+                     <item>Blow your pan.</item>
+                     <item>Paſs your musket to the ſword ſide.</item>
+                     <item>Take your charger.</item>
+                     <item>Open your charger with your teeth.</item>
+                     <item>Put the powder into the barrel.</item>
+                     <item>Draw your Rammer.</item>
+                     <item>Advance your Rammer.</item>
+                     <item>Shorten your Rammer againſt your breſt.</item>
+                     <item>Put in your Rammer into your gun.</item>
+                     <item>Ramm hard.</item>
+                     <item>Withdraw your Rammer.</item>
+                     <item>Advance your Rammer.</item>
+                     <item>Shorten your Rammer againſt your breſt.</item>
+                     <item>Return your Rammer.</item>
+                     <item>Joyn your right hand to your musket.</item>
+                     <item>Poyz your musket.</item>
+                     <item>Shoulder your musket.</item>
+                  </list>
+               </div>
+               <div n="pike" type="section">
+                  <head>Exercize of the Pike.</head>
+                  <p>
+                     <hi>Take heed to your ſelves there, Pikemen.</hi>
+                  </p>
+                  <list>
+                     <item>Lay down your Pike</item>
+                     <item>To the right, to the right, to the right, to the right.</item>
+                     <item>Half turn to the right. as you were:</item>
+                     <item>To the left, to the left, to the left, to the left.</item>
+                     <item>Half turn to the left. as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Advance your Pike.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to the front,</item>
+                     <item>To the right, to the right, to the right, to the right,</item>
+                     <pb n="3" facs="tcp:31511:3"/>
+                     <item>Half fac'd to the right, as you were:</item>
+                     <item>To the left, to the left, to the left, to the left,</item>
+                     <item>Half fac'd to the left, as you were.</item>
+                     <item>Advance your Pike,</item>
+                     <item>Charge to your proper front, as you were:</item>
+                     <item>To the right charge your Pike, as you were.</item>
+                     <item>To the right half turn'd charge, as you were;</item>
+                     <item>To the left charge your Pike, as you were;</item>
+                     <item>Half turn to the left charge, as you were,</item>
+                  </list>
+                  <p>
+                     <hi>Port your Pike.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to the front, as you were;</item>
+                     <item>To the right charge your pike, as you were;</item>
+                     <item>Half turn to the right charge, as you were:</item>
+                     <item>To the left charge your pike, as you were;</item>
+                     <item>Half turn to the left charge, as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Comport your pike the head formoſt.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to the front, as you were;</item>
+                     <item>To the right hand about charge, as you were;</item>
+                     <item>Half turn to the right charge, as you were:</item>
+                     <item>To the left hand about charge, as you were:</item>
+                     <item>Half turn to the left charge, as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Dart your pike.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to the front, as you were:</item>
+                     <item>To the right hand about charge, as you were;</item>
+                     <item>Half turn to the right charge, as you were:</item>
+                     <item>To the left hand about charge, as you were:</item>
+                     <item>Half turn to the left charge, as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Order your pike.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to horſe,</item>
+                     <item>Draw your ſword,</item>
+                     <item>Return your ſword,</item>
+                     <item>Order your pike,</item>
+                     <item>Charge to the front;</item>
+                     <item>March,</item>
+                     <item>Halt,</item>
+                     <item>Caſt off your pike,</item>
+                     <item>Trail your pike the head downwards,</item>
+                     <item>March,</item>
+                     <item>Halt, as you were,</item>
+                     <item>Order your pike.</item>
+                  </list>
+                  <p>
+                     <hi>Take heed there the whole battalion to preſent your arms.</hi>
+                  </p>
+                  <list>
+                     <item>Musketiers make ready,</item>
+                     <item>The pikes charge at the ſame time,</item>
+                     <item>To the right, to the right, to the right, to the right:</item>
+                     <item>Half turn to the right, as you were:</item>
+                     <item>To the left, to the left, to the left, to the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ft,</item>
+                     <item>H<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to the left, as you were.</item>
+                     <item>Take your match,</item>
+                     <item>Return your match,</item>
+                     <item>Shoulder your Musket.</item>
+                  </list>
+                  <p>
+                     <hi>Here they advance their pikes.</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>Take care there the whole Battalion.</hi>
+                     </item>
+                     <item>To the right, to the right, to the right, to the right,</item>
+                     <item>Half turn to the right, as you were:</item>
+                     <item>To the left, to the left, to the left, to the left,</item>
+                     <item>Half turn'd to the left, as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Ranks that are to double take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right double your ranks in front.</item>
+                     <item>March.</item>
+                     <item>Ranks as you were,</item>
+                     <item>March,</item>
+                     <item>To the left double your ranks in front.</item>
+                     <item>March,</item>
+                     <item>Ranks as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Ranks which have not yet doubled, take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right double your ranks i'th' rere,</item>
+                     <item>March,</item>
+                     <item>Ranks as you were,</item>
+                     <item>March.</item>
+                     <item>To the left double your ranks i'th' rere,</item>
+                     <item>March,</item>
+                     <item>Ranks as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Half-file-leaders take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right half-file-leaders double your ranks in front,</item>
+                     <item>March,</item>
+                     <pb n="4" facs="tcp:31511:4"/>
+                     <item>Bringers up as you were,</item>
+                     <item>March,</item>
+                     <item>To the left half-file-leaders double your ranks in front,</item>
+                     <item>March,</item>
+                     <item>Bringers up as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Half file bringers up take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right half file bringers up double your ranks in the rere,</item>
+                     <item>March,</item>
+                     <item>File leaders make good your ranks as you were,</item>
+                     <item>To the left half file bringers up double your ranks in the rere,</item>
+                     <item>March,</item>
+                     <item>File leaders make good your ranks as be<g ref="char:EOLhyphen"/>fore,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Bringers up take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right bringers up double your ranks in front,</item>
+                     <item>
+                        <hi>March,</hi> march, march,</item>
+                     <item>Half file leaders make good your ranks as before,</item>
+                     <item>
+                        <hi>March,</hi>
+                     </item>
+                     <item>To the left bringers up double your ranks in front,</item>
+                     <item>
+                        <hi>March,</hi> march, march,</item>
+                     <item>Half file leaders make good your ranks as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>File leaders take care there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right file leaders double your ranks in the rere,</item>
+                     <item>March,</item>
+                     <item>Half turn'd to the right, march;</item>
+                     <item>Half turn'd to the right, march;</item>
+                     <item>Half file bringers up make good your ranks as you were,</item>
+                     <item>March,</item>
+                     <item>To the left file leaders double your ranks in the rere,</item>
+                     <item>March,</item>
+                     <item>Half turn to the left, march;</item>
+                     <item>Half turn to the left, march;</item>
+                     <item>Half file bringers up make good your ranks as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Half ranks take care to cloſe with your files.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left demi-ranks cloſe to your files,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Half file-leaders take care to double your ranks on the wings in front.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file-leaders double your ranks on the wings in front.</item>
+                     <item>March, march</item>
+                     <item>Bringers up make good your files as you were,</item>
+                     <item>March, march,</item>
+                     <item>Half bringers up take heed there,</item>
+                     <item>To the right and the left half file bringers up double your ranks on the wings in the rere, March, march</item>
+                     <item>File leaders make good your ranks as you were,</item>
+                     <item>March, march.</item>
+                  </list>
+                  <p>
+                     <hi>Half file leaders take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file leaders double your ranks in front inward,</item>
+                     <item>March, march,</item>
+                     <item>Bringers up make good your ranks as you were</item>
+                     <item>March, march,</item>
+                  </list>
+                  <p>
+                     <hi>Half file bringers up take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file bringers up double your ranks in the rere inwards,</item>
+                     <item>March, march,</item>
+                     <item>File leaders make good your ranks as you were,</item>
+                     <item>March, march,</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left by demy ranks re<g ref="char:EOLhyphen"/>gain your diſtances, march,</item>
+                     <item>Halt,</item>
+                     <item>To the right and left,</item>
+                  </list>
+                  <p>
+                     <hi>Files that are to double take care there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right double your files, march:</item>
+                     <item>To the right treble your files: march:</item>
+                     <item>Untreble your files: march:</item>
+                     <item>Files as you were: march,</item>
+                  </list>
+                  <p>
+                     <hi>Files which have not doubled take heed to your ſelves.</hi>
+                  </p>
+                  <list>
+                     <item>To the left double your files: march:</item>
+                     <item>To the left treble your files: march:</item>
+                     <item>Untreble your files: march:</item>
+                     <item>Files as you were: march.</item>
+                     <item>Demy ranks take heed to the doubling of your files.</item>
+                     <item>To the right by Demy ranks double your files,</item>
+                     <item>March,</item>
+                     <item>Demy ranks make good your files as they were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>Demy ranks that have not doubled take heed there.</p>
+                  <list>
+                     <item>To the left by demy ranks double your files,</item>
+                     <item>March,</item>
+                     <pb n="5" facs="tcp:31511:4"/>
+                     <item>Demy ranks make good your files as they were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks take heed to the doubling your files in front and rere.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by demy ranks double your files in front and rere,</item>
+                     <item>March, march:</item>
+                     <item>Demy ranks make good your files as they were. March, march.</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks which have not doubled, take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the left demy ranks double your files in front and rere. March, march:</item>
+                     <item>Demy ranks make good your files as they were, march, march.</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks take care to double your files inwards.</hi>
+                  </p>
+                  <list>
+                     <item>To the right, demy ranks double your files inwards: march, march:</item>
+                     <item>Demy ranks make good your files as they were: march, march:</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks which have not yet doubled take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the left by demy Ranks double your files inwards: march, march:</item>
+                     <item>Demy Ranks make good your files as they were: march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter Ranks take care to the doubling your files.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by quarter Ranks double your files: march:</item>
+                     <item>Quarter Ranks make good your files as they were: march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter Ranks that have not doubled, take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the left by quarter Ranks double your files: march:</item>
+                     <item>Quarter Ranks make good your files as they were: march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter Ranks of the wings take heed in doubling your files with the quarter Ranks in the center.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter ranks of the wings double your files with the quar<g ref="char:EOLhyphen"/>ter Ranks of the center: march:</item>
+                     <item>Quarter Ranks make good your files as you were: march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter Ranks in the center take care of doubling your files with the quarter Ranks of the wings.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter Ranks of the center double your files with the quarter Ranks of the wings: march:</item>
+                     <item>Quarter Ranks make good your files as before: march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks take care to double your files by front and rere.</hi>
+                  </p>
+                  <list>
+                     <item>To the right quarter ranks double your files in front and rere. March, march:</item>
+                     <item>Quarter ranks return your files as they were: March, march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks which have not dou<g ref="char:EOLhyphen"/>bled take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the left, quarter ranks double your files in front and rere, March, march:</item>
+                     <item>Quarter ranks return your files as they were, March, march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks on the wings take heed to double your files on the quarter ranks of the Center by front and rere.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter ranks on the wings double your files on the quarter ranks of the center by front and rere. March, march.</item>
+                     <item>Quarter ranks, return your files as they were, March, march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks of the center take heed to double your files, on the quar<g ref="char:EOLhyphen"/>ter ranks of the wings by front and rere.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter ranks in the center double your files on the quarter ranks of the wings by front and rere, March, march:</item>
+                     <item>Quarter ranks return your files as you were. March, march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks take care to double your files inwards.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by quarter ranks double your files inwards. March, march:</item>
+                     <item>Quarter ranks remit your files as they were, March: march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks which have not doubled take care there.</hi>
+                  </p>
+                  <list>
+                     <item>To the left quarter ranks double your files inwards, March, march.</item>
+                     <item>Quarter ranks make good your files as you were, March, march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter ranks on the wings take care to double your files on the quarter ranks of the center inwards.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter ranks on the wings double your files on the quar<g ref="char:EOLhyphen"/>ter ranks of the Center inwards, March, march.</item>
+                     <item>Quarter ranks make good your files as you were, March, march:</item>
+                  </list>
+                  <pb n="6" facs="tcp:31511:5"/>
+                  <p>
+                     <hi>Quarter ranks in the center take care to double your files on the quarter ranks of the wings inwards.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter ranks in the center double your files on the quar<g ref="char:EOLhyphen"/>ter ranks of the wings inwards, March, march:</item>
+                     <item>Quarter ranks make good your files as they were.</item>
+                  </list>
+                  <p>
+                     <hi>Take care how you countermarch.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by ranks make your coun<g ref="char:EOLhyphen"/>termarch:</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right.</item>
+                     <item>To the left by ranks make your coun<g ref="char:EOLhyphen"/>termarch:</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the left.</item>
+                     <item>To the right and left by demy-ranks make your countermarch.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right and left.</item>
+                     <item>To the right and left by demy-ranks make your countermarch.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right and left.</item>
+                     <item>To the right and left by quarter ranks make a counter-march.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right and left.</item>
+                     <item>To right and left by quarter ranks make a countermarch.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To right and left.</item>
+                     <item>To the right by file countermarch.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>Half to the right.</item>
+                     <item>To the left by file countermarch.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>Half turn to the left.</item>
+                  </list>
+                  <p>
+                     <hi>Take heed to make a quarter converſion</hi>
+                  </p>
+                  <list>
+                     <item>To the right a quarter converſion.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the left a quarter converſion.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                  </list>
+                  <p>
+                     <hi>Take notice what you do.</hi>
+                  </p>
+                  <list>
+                     <item>Order your arms. <hi>the pikemen ſet their pikes to ground.</hi>
+                     </item>
+                     <item>Lay down your arms. <hi>the pikemen lay their pikes upon the ground between their two feet.</hi>
+                     </item>
+                     <item>To the right and left by demy-ranks break the battalion.</item>
+                     <item>March.</item>
+                     <item>To your arms.</item>
+                     <item>Handle your arms.</item>
+                     <item>Shoulder your muskets.</item>
+                  </list>
+               </div>
+               <div n="quarter-files" type="section">
+                  <head>Exercize by Quarter-files.</head>
+                  <p>
+                     <hi>The Battalia muſt be drawn eight deep and theſe words of command follow. Quarter files take care in doubling your ranks to the front.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by quarter files double your ranks in the front: march:</item>
+                     <item>Quarter files make good your Ranks as you were. March.</item>
+                     <item>To the left by quarter files double your Ranks in the front, March,</item>
+                     <item>Quarter files make good your Ranks as you were, March,</item>
+                  </list>
+                  <p>
+                     <hi>Quarter files take care in doubling your Ranks to the rere.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by quarter files double your Ranks in the rere. March.</item>
+                     <item>Quarter files make good your Ranks as you were. March.</item>
+                     <item>To the left by quarter files double your Ranks in the rere. March.</item>
+                     <item>Quarter files make good your Ranks as you were: March:</item>
+                  </list>
+                  <p>
+                     <hi>Half file leaders take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right half file leaders double your Ranks in front. March.</item>
+                     <item>Bringers up make good your Ranks as you were, March.</item>
+                     <item>To the left half file leaders double your Ranks in front. March.</item>
+                     <item>Bringers up make good your Ranks as you were, March,</item>
+                  </list>
+                  <p>
+                     <hi>Bringers up take care there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right half file bringers up double your Ranks in the rere, March.</item>
+                     <item>File leaders make good your Ranks as you were, March,</item>
+                     <item>To the left half file bringer up double your Ranks in the rere.</item>
+                     <item>File leaders make good your Ranks as you were. March.</item>
+                  </list>
+                  <pb n="7" facs="tcp:31511:5"/>
+                  <p>
+                     <hi>Quarter files in the front and rere, looke about you there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right quarter files of the front and rere, double your Ranks in front and rere on the quarter files of the center: march:</item>
+                     <item>Quarter files make good your Ranks as you were;</item>
+                     <item>To the left quarter files of the front and rere, double your Ranks in front and rere on the quarter files of the center; march:</item>
+                     <item>Quarter files make good your Ranks as you were; march.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter files of the center, take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right quarter files of the center, double your Ranks before and behind on the quarter Ranks of the front and rere.</item>
+                     <item>Quarter files make good your ranks as you were:</item>
+                     <item>To the left quarter files in the Center double your ranks before and behind on the Quarter files of the front and reare, march:</item>
+                     <item>Quarter files make good your ranks as you were, march:</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks take heed there:</hi>
+                  </p>
+                  <list>
+                     <item>To the Right and left by Demy rank cloſe your files, march:</item>
+                  </list>
+                  <p>
+                     <hi>Take care to double your ranks in front on the wings.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left by Quarter files double your ranks in front on the wings, march, march:</item>
+                     <item>Quarter files make good your ranks as you were, march, march:</item>
+                     <item>To the right and left quarter files double your ranks in the rear on the wings march, march:</item>
+                     <item>Quarter-files make good your ranks as you were, march:</item>
+                     <item>To the right and left quarter files double your ranks in front inwards, march, march:</item>
+                     <item>Quarter files make good your ranks as you were, march, march:</item>
+                     <item>To the right and left Quarter files dou<g ref="char:EOLhyphen"/>ble your ranks in the rear inwards, march, march:</item>
+                     <item>Quarter files make good your ranks as you were, march:</item>
+                  </list>
+                  <p>
+                     <hi>Half file leaders take care:</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file leaders double your ranks in front on the wings, march, march:</item>
+                     <item>Bringers up make good your ranks as you were, march, march:</item>
+                  </list>
+                  <p>
+                     <hi>Half file bringers up take care:</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file bringer up double your ranks in the rear on the wings, march, march:</item>
+                     <item>File leaders make good your ranks as you were, march, march:</item>
+                  </list>
+                  <p>
+                     <hi>Half file leaders take heed there:</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file leaders, double your ranks in front inwards, march, march:</item>
+                     <item>Bringers up make good your ranks as you were, march, march:</item>
+                  </list>
+                  <p>
+                     <hi>Half file bringers up take care:</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left half file bringers up double your ranks in the reare inwards, march, march:</item>
+                     <item>File-leaders make good your ranks as you were, march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter files in front and rear take care.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter files of the front and rear double your ranks in front and reare upon the quarter files of the Center on the wings, march, march:</item>
+                     <item>Quarter files make good your ranks as you were, march, march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter files of the Center take heed there.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter files of the Center double your ranks in front &amp; rear on the quarter files of the front and reare on the wings, march, march:</item>
+                     <item>Quarter files make good your ranks as you were, march, march:</item>
+                  </list>
+                  <p>
+                     <hi>Quarter files of the front and reare take care to your ſelves.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left by quarter files of the front and reare double your ranks in the rear on the quarter files of the Center inwards, march, march:</item>
+                     <item>Quarter files make good your ranks as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Quarter files in the Center take heed to your ſelves.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left quarter files in the Center double your ranks in front and rear on the quarter files of the front and reare inwards, march, march:</item>
+                     <item>Quarter files make good your ranks as you were, march, march:</item>
+                     <item>To the right and left by demy ranks re<g ref="char:EOLhyphen"/>gain
+<pb n="8" facs="tcp:31511:6"/>your diſtances, march:</item>
+                  </list>
+                  <p>
+                     <hi>Take care Pikemen to line the Battalia.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left by entire Ranks of Pikes line the Battalia front and reare.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right and left.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right and left.</item>
+                  </list>
+                  <p>
+                     <hi>Take care to be as you were.</hi>
+                  </p>
+                  <list>
+                     <item>To the right and left regain your ranks.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right and left.</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>As you were.</item>
+                  </list>
+                  <p>The Halbertiers with the Officers are placed on the wings of the Battaile to cover the Flanks, and files of Muſquets are drawn from the right and left for firings.</p>
+               </div>
+            </div>
+            <div type="exercise">
+               <head>
+                  <hi>Particular Exercize for the</hi> FOOT. In things moſt neceſſary and ordinarily uſed in Encounters.</head>
+               <p>
+                  <hi>AFter the Regiment is drawn into a Body, draw out the Files of Halber<g ref="char:EOLhyphen"/>teers which are placed on the wings by the following Commands.</hi>
+               </p>
+               <list>
+                  <item>Take care Halberteers to form Files on the wings of the body.</item>
+                  <item>To the right and left by half ranks draw out your files on the wings of the body. March.</item>
+               </list>
+               <p>
+                  <hi>Then cauſe the Files in the Body to open.</hi>
+               </p>
+               <list>
+                  <item>Take heed in opening your files, that the right hand file ſtir not.</item>
+                  <item>To the left open your files to three foot diſtance.</item>
+                  <item>March.</item>
+                  <item>Halt.</item>
+                  <item>To the right.</item>
+               </list>
+               <div n="musket" type="section">
+                  <head>Exercize of the Musket.</head>
+                  <p>
+                     <hi>Take heed in the exercizing your Musket.</hi>
+                  </p>
+                  <list>
+                     <item>Lay your right hand on your musket.</item>
+                     <item>Poyze your musket,</item>
+                     <item>Joyn your left hand to your musket.</item>
+                     <item>Take your match.</item>
+                     <item>Blow your match.</item>
+                     <item>Cook your match.</item>
+                     <item>Try your match.</item>
+                     <item>Lay your two ſingers on the pan.</item>
+                     <item>Blow your match.</item>
+                     <item>Open your pan.</item>
+                     <item>Preſent.</item>
+                  </list>
+                  <p>
+                     <hi>At this command the Pikes charge in front.</hi>
+                  </p>
+                  <list>
+                     <item>Give fire.</item>
+                     <item>Withdraw your arms.</item>
+                  </list>
+                  <p>
+                     <hi>Here the Pikes advance.</hi>
+                  </p>
+                  <list>
+                     <item>Take out your match.</item>
+                     <item>Return it to its place.</item>
+                     <item>Blow your pan.</item>
+                     <item>Take your primer.</item>
+                     <item>Prime your pan.</item>
+                     <item>Shut your pan.</item>
+                     <item>Blow your pan.</item>
+                     <item>Paſs your musket to the ſword ſide.</item>
+                     <item>Take your charger.</item>
+                     <item>Open it with your teeth.</item>
+                     <item>Put in your powder.</item>
+                     <item>Draw your Rammer.</item>
+                     <item>Advance your Rammer.</item>
+                     <item>Shorten it againſt your breaſt.</item>
+                     <item>Put it into your bore.</item>
+                     <item>Ramm.</item>
+                     <item>Withdraw your Rammer.</item>
+                     <item>Advance your Rammer.</item>
+                     <item>Shorten it againſt your breaſt.</item>
+                     <item>Return your Rammer.</item>
+                     <item>Joyn your right hand to your musket.</item>
+                     <item>Poyz your musket.</item>
+                     <item>Shoulder your musket.</item>
+                  </list>
+               </div>
+               <div type="exercise">
+                  <head>Exercize of the Pike.</head>
+                  <p>
+                     <hi>Look to your ſelves, Pikemen.</hi>
+                  </p>
+                  <list>
+                     <item>Lay down your Pike</item>
+                     <item>To the right, to the right, to the right, to the right.</item>
+                     <pb n="9" facs="tcp:31511:6"/>
+                     <item>Half turn to the right. as you were:</item>
+                     <item>To the left, to the left, to the left, to the left.</item>
+                     <item>Half turn to the left. as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Advance your Pike.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to the front,</item>
+                     <item>To the right, to the right, to the right, to the right,</item>
+                     <item>Half turn to the right, as you were:</item>
+                     <item>To the left, to the left, to the left, to the left,</item>
+                     <item>Half turn to the left, as you were.</item>
+                     <item>Advance your Pike,</item>
+                     <item>Port your pike,</item>
+                     <item>Charge to the front, as you were:</item>
+                     <item>To the right charge, as you were.</item>
+                     <item>Half turn'd to the right charge, as you were;</item>
+                     <item>To the left charge, as you were;</item>
+                     <item>Half turn to the left charge, as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Comport your pike the head formoſt.</hi>
+                  </p>
+                  <list>
+                     <item>Charge to the front.</item>
+                     <item>Trail your pike the head downwards, as you were,</item>
+                     <item>Caſt off your pike,</item>
+                     <item>Order your pike.</item>
+                     <item>Charge to horſe,</item>
+                     <item>Draw your ſword,</item>
+                     <item>Return your ſword,</item>
+                     <item>Order your pike,</item>
+                  </list>
+                  <p>
+                     <hi>Take heed the whole body to preſent your arms.</hi>
+                  </p>
+                  <list>
+                     <item>Musketiers make ready,</item>
+                     <item>The pikes charge at the ſame time, and the command following ſerve as well for the pikes as the Muskets.</item>
+                     <item>To the right, to the right, to the right, to the right:</item>
+                     <item>Half turn to the right, as you were:</item>
+                     <item>To the left, to the left, to the left, to the left,</item>
+                     <item>Half turn to the left, as you were.</item>
+                     <item>Handle your match,</item>
+                     <item>Return it to its place,</item>
+                     <item>Shoulder your Musket.</item>
+                  </list>
+                  <p>
+                     <hi>At the ſame time they order their pikes. Take heed there the whole Battalion.</hi>
+                  </p>
+                  <list>
+                     <item>To the right, to the right, to the right, to the right,</item>
+                     <item>Half turn to the right, as you were:</item>
+                     <item>To the left, to the left, to the left, to the left,</item>
+                     <item>Half turn'd to the left, as you were.</item>
+                  </list>
+                  <p>
+                     <hi>Ranks that are to double look to it.</hi>
+                  </p>
+                  <list>
+                     <item>To the right double your ranks in front.</item>
+                     <item>March.</item>
+                     <item>Ranks as you were,</item>
+                     <item>March,</item>
+                     <item>To the left double your ranks in front.</item>
+                     <item>March,</item>
+                     <item>Ranks as you were,</item>
+                     <item>March</item>
+                  </list>
+                  <p>
+                     <hi>Ranks that have not doubled, look to it.</hi>
+                  </p>
+                  <list>
+                     <item>To the right double your ranks i'th' rere</item>
+                     <item>March,</item>
+                     <item>Ranks as you were,</item>
+                     <item>March,</item>
+                     <item>To the left double your ranks i'th' rere,</item>
+                     <item>March,</item>
+                     <item>Ranks as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Demy ranks of the wing take care.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by demy Ranks of the wing double your files,</item>
+                     <item>March,</item>
+                     <item>Demy Ranks make good your files as you were,</item>
+                     <item>March,</item>
+                     <item>Demy Ranks that have not doubled, take care.</item>
+                     <item>To the left by Demy Ranks of the wings double your files,</item>
+                     <item>March,</item>
+                     <item>Demy Ranks make good your files as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <p>
+                     <hi>Demy Ranks of the body take care.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by Demy Ranks double your files,</item>
+                     <item>March,</item>
+                     <item>Demy Ranks make good your files as you were,</item>
+                     <item>March,</item>
+                     <item>To the left by Demy Ranks double your files,</item>
+                     <item>March,</item>
+                     <item>Demy Ranks make good your files as you were,</item>
+                     <item>March.</item>
+                  </list>
+                  <pb n="10" facs="tcp:31511:7"/>
+                  <p>
+                     <hi>The whole body take care to countermarch.</hi>
+                  </p>
+                  <list>
+                     <item>To the right by Ranks countermarch,</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the right.</item>
+                     <item>To the left by Ranks countermarch,</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                     <item>To the left.</item>
+                  </list>
+                  <p>
+                     <hi>Take heed to make a quarter converſion.</hi>
+                  </p>
+                  <list>
+                     <item>To the right a quarter converſion,</item>
+                     <item>March.</item>
+                     <item>Halt,</item>
+                     <item>To the left a quarter converſion,</item>
+                     <item>March.</item>
+                     <item>Halt.</item>
+                  </list>
+                  <p>
+                     <hi>Take notice all.</hi>
+                  </p>
+                  <list>
+                     <item>Order your arms,</item>
+                  </list>
+                  <p>
+                     <hi>The Pike-men reſt their pikes on the ground.</hi>
+                  </p>
+                  <list>
+                     <item>Lay down your arms,</item>
+                  </list>
+                  <p>
+                     <hi>The Pike-men ſtick their pikes between their two legs.</hi>
+                  </p>
+                  <p>
+                     <hi>Be ready to go</hi> A la Paille.</p>
+                  <p>A la Paille; <hi>[Which they are to do when the drum beats a charge, and to re<g ref="char:EOLhyphen"/>turn on its ſecond beating, with their ſwords in their hands, and holding them above their head, when every one is re<g ref="char:EOLhyphen"/>turned to his place.</hi>
+                  </p>
+                  <p>
+                     <hi>And when they are returned,</hi>
+                  </p>
+                  <list>
+                     <item>Return your ſwords,</item>
+                     <item>Handle your arms,</item>
+                  </list>
+                  <p>
+                     <hi>The Pike-men take their Pikes out of the ground.</hi>
+                  </p>
+                  <list>
+                     <item>Shoulder your musket,</item>
+                  </list>
+                  <p>
+                     <hi>The pikes advance.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>All ſorts of change of Filings.</head>
+               <p>Take care in all changes of fillings, that the files be of even number, and if there be found any ſupernumerary files, let them be formed into ranks in the rere of the Diviſion.</p>
+               <p>Obſerve that when the Diviſions file off in the places where they turn by a quarterly converſion, all the Ranks turn towards the place they firſt turned to, taking care to follow the file-leader ſtep by ſtep.</p>
+               <p>For this purpoſe the Serjeants of the Diviſion ſhall ſtand ſtill in the place it ought to turn to, untill the laſt Rank be paſſed and filed off.</p>
+               <p>When they file off on a bridge before an Enemy, after the looſe men have paſ<g ref="char:EOLhyphen"/>ſed, the body muſt be filed off by Rank by the center.</p>
+               <p>They muſt make quarter converſions and half converſions.</p>
+            </div>
+            <div type="part">
+               <head>Manner of Firing.</head>
+               <p>The beſt way of firing is by Rank, when you would fire in a parallel line with the Enemy.</p>
+               <p>For this purpoſe to fire with leſs trou<g ref="char:EOLhyphen"/>ble, it is good to do it ſtanding firm your ground, without any motion ſave that of making the five firſt Ranks kneel, and let the ſixth be the firſt that fires, then the fifth riſing up does the like, and ſo the reſt in order.</p>
+               <p>All the Ranks before the skirmiſh re<g ref="char:EOLhyphen"/>news muſt be cloſed up to ſix foot di<g ref="char:EOLhyphen"/>ſtance.</p>
+               <p>When a firing is to be maintained by a looſe body, either at the paſſage of a River, a narrow way, or a Retreat, files of musketiers muſt be drawn off from the right and left, who are always to be com<g ref="char:EOLhyphen"/>manded by Officers thereto appointed.</p>
+               <p>And till they come to be returned to their body, they are ſtill to be lead by thoſe Officers.</p>
+               <p>When you march in Diviſion, the eaſier to draw into a body, as you march you muſt divide into three bodies, two of muskets and that of pikes, and ſo without loſing time the three may joyn together.</p>
+               <p>In theſe motions the fronts muſt march ſlowly, to give leaſure to thoſe that dou<g ref="char:EOLhyphen"/>ble to joyn without hurry.</p>
+               <p>They may likewiſe file off in marching in the ſame manner, obſerving likewiſe that the front mends its pace, and the bo<g ref="char:EOLhyphen"/>dy ſtill ſlacken theirs, but without halt<g ref="char:EOLhyphen"/>ing.</p>
+               <p>When the Regiment is embatteled, and that you would draw off the Companies to lay down their arms, or return to their quarters, you muſt cauſe the two wings of muskets to move, and the pikes remain behind, till thoſe bodies of muskets ſtill inclining cloſe to the right and left, and are joyned in convenient ground, that the pikes of each Company are in the rere of their muskets, and then they may march off without loſing time, each Officer be<g ref="char:EOLhyphen"/>ing in his poſt.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31511:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
